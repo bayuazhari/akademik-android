@@ -1,6 +1,6 @@
 # akademik-android
-Tugas Mobile Programming D4 TI 2C
-#Kelompok 1
+Tugas Mobile Programming D4TI2C
+Kelompok 1 (Akademik)
 Nama | NPM | Github
 ---------- | ----------- | ------------
 Bayu Rahmad Azhari | 1144125 | https://github.com/bayurahmadazhari
