@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.bayu.akademik">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".LoginActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".DataMhsActivity" />
+        <activity android:name=".TambahMhsActivity" />
+        <activity android:name=".LihatMhsActivity" />
+        <activity android:name=".UpdateMhsActivity" />
+        <activity android:name=".DataMatkulActivity" />
+        <activity android:name=".DataDosenActivity" />
+        <activity android:name=".TambahMatkulActivity" />
+        <activity android:name=".LihatMatkulActivity" />
+        <activity android:name=".UpdateMatkulActivity" />
+        <activity android:name=".TambahDosenActivity" />
+        <activity android:name=".LihatDosenActivity" />
+        <activity android:name=".UpdateDosenActivity"></activity>
+    </application>
+
+</manifest>
